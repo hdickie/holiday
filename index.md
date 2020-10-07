@@ -7,11 +7,11 @@ The seeming significance of life is necessarily lost in our day to day lives so 
 ### Index
 
 
-[Samhain](https://hdickie.github.io/holiday/Samhain.html)
-[Yule](https://hdickie.github.io/holiday/Yule.html)
-[Imbolc](https://hdickie.github.io/holiday/Imbolc.html)
-[Ostara](https://hdickie.github.io/holiday/Ostara.html)
-[Beltane](https://hdickie.github.io/holiday/Beltane.html)
-[Litha](https://hdickie.github.io/holiday/Litha.html)
-[Lughnasadh](https://hdickie.github.io/holiday/Lughnasadh.html)
-[Mabon](https://hdickie.github.io/holiday/Mabon.html)
+[Samhain](https://hdickie.github.io/holiday/Samhain.html)  
+[Yule](https://hdickie.github.io/holiday/Yule.html)  
+[Imbolc](https://hdickie.github.io/holiday/Imbolc.html)  
+[Ostara](https://hdickie.github.io/holiday/Ostara.html)  
+[Beltane](https://hdickie.github.io/holiday/Beltane.html)  
+[Litha](https://hdickie.github.io/holiday/Litha.html)  
+[Lughnasadh](https://hdickie.github.io/holiday/Lughnasadh.html)  
+[Mabon](https://hdickie.github.io/holiday/Mabon.html)  
